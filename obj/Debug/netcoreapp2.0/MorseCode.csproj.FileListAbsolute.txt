@@ -1,0 +1,12 @@
+C:\Users\MKochubei\source\repos\MorseCode\bin\Debug\netcoreapp2.0\MorseCode.deps.json
+C:\Users\MKochubei\source\repos\MorseCode\bin\Debug\netcoreapp2.0\MorseCode.runtimeconfig.json
+C:\Users\MKochubei\source\repos\MorseCode\bin\Debug\netcoreapp2.0\MorseCode.runtimeconfig.dev.json
+C:\Users\MKochubei\source\repos\MorseCode\bin\Debug\netcoreapp2.0\MorseCode.dll
+C:\Users\MKochubei\source\repos\MorseCode\bin\Debug\netcoreapp2.0\MorseCode.pdb
+C:\Users\MKochubei\source\repos\MorseCode\obj\Debug\netcoreapp2.0\MorseCode.csprojAssemblyReference.cache
+C:\Users\MKochubei\source\repos\MorseCode\obj\Debug\netcoreapp2.0\MorseCode.AssemblyInfoInputs.cache
+C:\Users\MKochubei\source\repos\MorseCode\obj\Debug\netcoreapp2.0\MorseCode.AssemblyInfo.cs
+C:\Users\MKochubei\source\repos\MorseCode\obj\Debug\netcoreapp2.0\MorseCode.csproj.CoreCompileInputs.cache
+C:\Users\MKochubei\source\repos\MorseCode\obj\Debug\netcoreapp2.0\MorseCode.dll
+C:\Users\MKochubei\source\repos\MorseCode\obj\Debug\netcoreapp2.0\MorseCode.pdb
+C:\Users\MKochubei\source\repos\MorseCode\obj\Debug\netcoreapp2.0\MorseCode.genruntimeconfig.cache

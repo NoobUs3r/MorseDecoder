@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "MorseCode/1.0.0": {
+        "dependencies": {
+          "KeyStatus1": "1.0.0"
+        },
+        "runtime": {
+          "MorseCode.dll": {}
+        }
+      },
+      "KeyStatus1/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/KeyStatus1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MorseCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KeyStatus1/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5cIcS6c+tv/xCLIUE55/femFy3KeZ7bHhN3irleVi64x1lxwjXsfWarUAjHi0fS4AiIDW3CBhXY2GoTmYHk60Q==",
+      "path": "keystatus1/1.0.0",
+      "hashPath": "keystatus1.1.0.0.nupkg.sha512"
+    }
+  }
+}
