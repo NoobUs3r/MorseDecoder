@@ -7,7 +7,6 @@ internal enum KeyCode : int
     Backspace = 0x08
 }
 
-
 internal static class NativeKeyboard
 {
     // A positional bit flag indicating the part of a key state denoting key pressed.
@@ -16,7 +15,7 @@ internal static class NativeKeyboard
     // Returns a value indicating if a given key is pressed.
     public static bool IsKeyDown(KeyCode key)
     {
-        return (GetKeyState((int)key) & KeyPressed) == 0;
+        return (GetKeyState((int)key) & KeyPressed) != 0;
     }
 
     // Gets the key state of a key.
